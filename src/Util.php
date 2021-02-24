@@ -1,5 +1,6 @@
 <?php
 class Util{
+
     public static function test(){
         echo 'this is test';
     }
